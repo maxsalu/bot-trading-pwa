@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06 00:22 WIT: no trade; Early Rocco HZbiEp RugCheck clean but creator wallet 0 SOL/0 tokens with 100 txs in ~6 min + vertical +431% -> skip; EAGLE buys≈sells, titcoin m5 sells>buys, MrBeast/GTA6 bot micro-tx; Momentum CORLA/GAVELDROP/PIRATE/MINTED/AI skipped as before; watchlist higher falling not Dip",
-  "updated_iso": "2026-11-06T00:26+09:00",
+  "updated": "6 Nov 2026, 00.32 WIT",
+  "updated_iso": "2026-11-06T00:34+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
@@ -224,6 +224,10 @@
     {
       "label": "00.05",
       "value": 0.951
+    },
+    {
+      "label": "00.32",
+      "value": 0.951
     }
   ],
   "equityFloor": 0.943,
@@ -235,8 +239,8 @@
     {
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
-      "status": "siaga · next ~00.37",
-      "bubble": "201 token dicek pukul 00.22 · PumpPortal OK",
+      "status": "siaga",
+      "bubble": "201 token dicek pukul 2026-11-06T00.32+09.00 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -550,8 +554,8 @@
     {
       "symbol": "higher",
       "mint": "6KphvjhrxCUyQAtcAYg4HDoSwsj4qfn1uP2KDEg8qPrJ",
-      "status": "Harga ~$0.0001365 (-16% vs ref), MC ~$137k, liq ~$32.2k. m5 -7.7% (jual 12 > beli 6) / h1 -20.7% / h6 -19%. Masih turun, belum entry Dip. (Batas ~48 jam: 7 Nov ~08:34 WIT)",
-      "last_checked": "2026-11-06 00:22 WIT"
+      "status": "Harga ~$0.0001429 (-12% vs ref), MC ~$143k, liq ~$32.9k. m5 +11% (beli 11 vs jual 9), h1 -14.6%, h6 -11%; ~-25% dari high ~$0.00019, volume memudar, belum entry Dip.",
+      "last_checked": "2026-11-06 00:32 WIT"
     }
   ],
   "stats": {
