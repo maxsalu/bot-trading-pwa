@@ -1,16 +1,16 @@
 {
-  "updated": "6 Nov 2026, 05.50 WIT",
-  "updated_iso": "2026-11-06T05:50+09:00",
+  "updated": "6 Nov 2026, 06.00 WIT",
+  "updated_iso": "2026-11-06T06:05+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
-    "sol": "1,1611",
-    "sol_num": 1.161122,
-    "usd": "$97,26",
-    "usd_num": 97.26,
-    "mult": "0,934×",
-    "mult_num": 0.934,
+    "sol": "1,1555",
+    "sol_num": 1.155505,
+    "usd": "$96,97",
+    "usd_num": 96.97,
+    "mult": "0,930×",
+    "mult_num": 0.93,
     "pnl": "-0,0611 SOL (-4,92%)",
     "pnl_num": -0.061125,
     "pnl_pct": -4.92,
@@ -200,19 +200,23 @@
     {
       "label": "04.50",
       "value": 0.934
+    },
+    {
+      "label": "06.00",
+      "value": 0.93
     }
   ],
-  "equityFloor": 0.931,
+  "equityFloor": 0.927,
   "equityCeiling": 0.954,
-  "current": 0.934,
-  "goalCaption": "Posisi sekarang 0,934× · butuh +1,3243 SOL lagi untuk 2×",
+  "current": 0.93,
+  "goalCaption": "Posisi sekarang 0,930× · butuh +1,3299 SOL lagi untuk 2×",
   "depositNote": "Setoran 0,859 SOL pada 01.40 WIT dihitung sebagai modal, bukan untung.",
   "crew": [
     {
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
-      "status": "siaga · next ~06.05",
-      "bubble": "173 token dicek pukul 05.50 · PumpPortal OK",
+      "status": "siaga · next ~06.15",
+      "bubble": "173 token dicek pukul 06.00 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -360,7 +364,7 @@
       "sol_in": 0.1,
       "tokens": 72663.537228,
       "entry_usd": 0.00012164882396298883,
-      "pct": -24.75,
+      "pct": -23.312,
       "peak_pct": 1.6016
     }
   ],
@@ -521,7 +525,7 @@
     ]
   },
   "status": {
-    "saldo": "1,0800 SOL ($97,26)",
+    "saldo": "1,0800 SOL ($96,97)",
     "beli_hari_ini": "0,1 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
