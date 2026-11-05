@@ -1,14 +1,14 @@
 {
-  "updated": "6 Nov 2026, 04.12 WIT",
-  "updated_iso": "2026-11-06T05:23+09:00",
+  "updated": "6 Nov 2026, 05.39 WIT",
+  "updated_iso": "2026-11-06T05:40+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
     "sol": "1,1611",
     "sol_num": 1.161122,
-    "usd": "$96,87",
-    "usd_num": 96.87,
+    "usd": "$89,92",
+    "usd_num": 89.92,
     "mult": "0,934×",
     "mult_num": 0.934,
     "pnl": "-0,0611 SOL (-4,92%)",
@@ -211,8 +211,8 @@
     {
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
-      "status": "siaga",
-      "bubble": "206 token dicek · PumpPortal OK",
+      "status": "siaga · next ~05.54",
+      "bubble": "206 token dicek pukul 05.39 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -220,7 +220,7 @@
       "name": "X Sentiment",
       "role": "Cek sebutan mint di X",
       "status": "siaga",
-      "bubble": "20 post terbaru semua template call-group ('Xx from my call', VIP call) — Early skip",
+      "bubble": "Tidak ada kandidat final yang sampai tahap cek X",
       "hue": 5,
       "tone": "neutral"
     },
@@ -360,7 +360,7 @@
       "sol_in": 0.1,
       "tokens": 72663.537228,
       "entry_usd": 0.00012164882396298883,
-      "pct": -22.665,
+      "pct": -26.88,
       "peak_pct": 1.6016
     }
   ],
@@ -521,7 +521,7 @@
     ]
   },
   "status": {
-    "saldo": "1,0800 SOL ($96,87)",
+    "saldo": "1,0800 SOL ($89,92)",
     "beli_hari_ini": "0,1 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
