@@ -1,14 +1,14 @@
 {
-  "updated": "6 Nov 2026, 00.32 WIT",
-  "updated_iso": "2026-11-06T00:34+09:00",
+  "updated": "6 Nov 2026, 00.53 WIT",
+  "updated_iso": "2026-11-06T00:55+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
     "sol": "1,1816",
     "sol_num": 1.181587,
-    "usd": "$107,52",
-    "usd_num": 107.52,
+    "usd": "$105,61",
+    "usd_num": 105.61,
     "mult": "0,951×",
     "mult_num": 0.951,
     "pnl": "-0,0611 SOL (-4,92%)",
@@ -240,7 +240,7 @@
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "201 token dicek pukul 2026-11-06T00.32+09.00 · PumpPortal OK",
+      "bubble": "205 token dicek pukul 2026-11-06T00.53+09.00 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -499,7 +499,7 @@
     ]
   },
   "status": {
-    "saldo": "1,1816 SOL ($107,52)",
+    "saldo": "1,1816 SOL ($105,61)",
     "beli_hari_ini": "0,0 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
@@ -554,8 +554,8 @@
     {
       "symbol": "higher",
       "mint": "6KphvjhrxCUyQAtcAYg4HDoSwsj4qfn1uP2KDEg8qPrJ",
-      "status": "Harga ~$0.0001429 (-12% vs ref), MC ~$143k, liq ~$32.9k. m5 +11% (beli 11 vs jual 9), h1 -14.6%, h6 -11%; ~-25% dari high ~$0.00019, volume memudar, belum entry Dip.",
-      "last_checked": "2026-11-06 00:32 WIT"
+      "status": "Harga ~$0.000095 (-41% vs ref), MC ~$95k, liq ~$26.8k (turun dari $32.9k). h1 -45.7%, h6 -36%, m5 datar (beli 50 vs jual 28). Masih jatuh keras, di bawah batas MC/liq Dip Hunter; belum entry. Pantau likuiditas.",
+      "last_checked": "2026-11-06 00:53 WIT"
     }
   ],
   "stats": {
