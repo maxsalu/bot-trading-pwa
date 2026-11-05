@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0B0C10" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="description" content="Dashboard hasil bot trading Solana — lihat saja, tanpa wallet." />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png" />
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+  <title>Bot Trading</title>
+  <link rel="stylesheet" href="app.css" />
+</head>
+<body>
+  <div id="app">
+    <header class="top">
+      <div class="brand">
+        <div class="logo" aria-hidden="true"></div>
+        <div>
+          <div class="brand-title">Bot Trading</div>
+          <div class="brand-sub">Solana · lihat saja</div>
+        </div>
+      </div>
+      <div class="live-pill" id="livePill"><span class="dot"></span>Live</div>
+    </header>
+
+    <p class="updated" id="updated">Memuat…</p>
+
+    <section class="hero card-soft" id="hero">
+      <div class="muted">Total equity</div>
+      <div class="usd" id="usd">$0,00</div>
+      <div class="sol" id="sol">0 SOL</div>
+      <div class="row gap" id="pnlRow"></div>
+      <div class="muted tiny" id="basisNote"></div>
+    </section>
+
+    <section class="card" id="chartCard">
+      <div class="tabs">
+        <button type="button" class="tab on" data-tf="SEMUA">SEMUA</button>
+        <button type="button" class="tab" data-tf="TERBARU">TERBARU</button>
+      </div>
+      <div id="chart"></div>
+      <div class="muted tiny" id="goalCap"></div>
+    </section>
+
+    <section class="card" id="agentsCard">
+      <div class="sec-head">
+        <h2>Agents</h2>
+        <span class="live-mini" id="agentsLive"><span class="dot"></span><span id="agentsCount">0 jalan</span></span>
+      </div>
+      <div class="agents" id="agents"></div>
+    </section>
+
+    <section class="card" id="statsCard">
+      <div class="stats" id="stats"></div>
+    </section>
+
+    <section class="card" id="posCard">
+      <div class="sec-head">
+        <h2>Posisi terbuka</h2>
+        <span class="pill muted-pill" id="posPill">0 posisi</span>
+      </div>
+      <div id="positions"></div>
+    </section>
+
+    <section class="card" id="actCard">
+      <div class="sec-head"><h2>Aktivitas</h2></div>
+      <div id="activity"></div>
+    </section>
+
+    <section class="card" id="scanCard">
+      <div class="sec-head">
+        <h2>Scan terakhir</h2>
+        <span class="muted tiny" id="scanTime"></span>
+      </div>
+      <div class="muted tiny" id="scanMeta"></div>
+      <div id="scan"></div>
+    </section>
+
+    <section class="card" id="settingsCard">
+      <div class="sec-head"><h2>Pengaturan</h2></div>
+      <div class="modes" id="modes">
+        <div class="mode">Aman</div>
+        <div class="mode on">Seimbang</div>
+        <div class="mode degen">Degen</div>
+      </div>
+      <p class="muted tiny">Mode risiko cuma tampilan; aturan di bawah yang dipakai bot.</p>
+      <div id="settings"></div>
+    </section>
+
+    <section class="card" id="filtersCard">
+      <div class="sec-head"><h2>Saringan token</h2></div>
+      <div id="filters"></div>
+      <div class="warn" id="risk"></div>
+    </section>
+
+    <footer class="foot">
+      <p>Hanya tampilan hasil. Tidak ada tombol beli, jual, deposit, atau withdraw.</p>
+      <p id="walletFoot"></p>
+    </footer>
+  </div>
+  <script src="app.js" defer></script>
+</body>
+</html>

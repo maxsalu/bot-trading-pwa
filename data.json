@@ -1,0 +1,563 @@
+{
+  "updated": "6 Nov 2026, 00.05 WIT",
+  "updated_iso": "2026-11-06T00:11+09:00",
+  "live": true,
+  "wallet": "CUzx…Vunx",
+  "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
+  "equity": {
+    "sol": "1,1816",
+    "sol_num": 1.181587,
+    "usd": "$109,50",
+    "usd_num": 109.5,
+    "mult": "0,951×",
+    "mult_num": 0.951,
+    "pnl": "-0,0611 SOL (-4,92%)",
+    "pnl_num": -0.061125,
+    "pnl_pct": -4.92,
+    "basis": "1,2427 SOL",
+    "basis_num": 1.242712,
+    "trades": "4 trade (2 ditutup)",
+    "win": "win rate 0% (0/2)",
+    "best_trade": "-34,2% $STONKS"
+  },
+  "equityPoints": [
+    {
+      "label": "01.45",
+      "value": 0.998
+    },
+    {
+      "label": "02.01",
+      "value": 0.996
+    },
+    {
+      "label": "03.01",
+      "value": 0.997
+    },
+    {
+      "label": "04.07",
+      "value": 0.991
+    },
+    {
+      "label": "05.08",
+      "value": 1.002
+    },
+    {
+      "label": "06.05",
+      "value": 0.999
+    },
+    {
+      "label": "07.11",
+      "value": 0.968
+    },
+    {
+      "label": "08.08",
+      "value": 0.971
+    },
+    {
+      "label": "09.01",
+      "value": 0.974
+    },
+    {
+      "label": "10.09",
+      "value": 0.96
+    },
+    {
+      "label": "11.03",
+      "value": 0.959
+    },
+    {
+      "label": "11.44",
+      "value": 0.951
+    },
+    {
+      "label": "12.12",
+      "value": 0.951
+    },
+    {
+      "label": "13.09",
+      "value": 0.951
+    },
+    {
+      "label": "14.06",
+      "value": 0.951
+    },
+    {
+      "label": "15.05",
+      "value": 0.951
+    },
+    {
+      "label": "16.03",
+      "value": 0.951
+    },
+    {
+      "label": "17.07",
+      "value": 0.951
+    },
+    {
+      "label": "18.05",
+      "value": 0.951
+    },
+    {
+      "label": "19.06",
+      "value": 0.951
+    },
+    {
+      "label": "20.02",
+      "value": 0.951
+    },
+    {
+      "label": "21.03",
+      "value": 0.951
+    },
+    {
+      "label": "22.00",
+      "value": 0.951
+    },
+    {
+      "label": "23.13",
+      "value": 0.951
+    },
+    {
+      "label": "00.05",
+      "value": 0.951
+    },
+    {
+      "label": "01.10",
+      "value": 0.951
+    },
+    {
+      "label": "02.05",
+      "value": 0.951
+    },
+    {
+      "label": "03.10",
+      "value": 0.951
+    },
+    {
+      "label": "04.06",
+      "value": 0.951
+    },
+    {
+      "label": "05.05",
+      "value": 0.951
+    },
+    {
+      "label": "06.10",
+      "value": 0.951
+    },
+    {
+      "label": "07.06",
+      "value": 0.951
+    },
+    {
+      "label": "08.06",
+      "value": 0.951
+    },
+    {
+      "label": "09.10",
+      "value": 0.951
+    },
+    {
+      "label": "10.10",
+      "value": 0.951
+    },
+    {
+      "label": "11.08",
+      "value": 0.951
+    },
+    {
+      "label": "12.07",
+      "value": 0.951
+    },
+    {
+      "label": "13.05",
+      "value": 0.951
+    },
+    {
+      "label": "14.03",
+      "value": 0.951
+    },
+    {
+      "label": "15.03",
+      "value": 0.951
+    },
+    {
+      "label": "16.11",
+      "value": 0.951
+    },
+    {
+      "label": "17.07",
+      "value": 0.951
+    },
+    {
+      "label": "18.05",
+      "value": 0.951
+    },
+    {
+      "label": "19.08",
+      "value": 0.951
+    },
+    {
+      "label": "20.04",
+      "value": 0.951
+    },
+    {
+      "label": "21.09",
+      "value": 0.951
+    },
+    {
+      "label": "22.09",
+      "value": 0.951
+    },
+    {
+      "label": "22.45",
+      "value": 0.951
+    },
+    {
+      "label": "23.22",
+      "value": 0.951
+    },
+    {
+      "label": "23.36",
+      "value": 0.951
+    },
+    {
+      "label": "00.05",
+      "value": 0.951
+    }
+  ],
+  "equityFloor": 0.943,
+  "equityCeiling": 1.01,
+  "current": 0.951,
+  "goalCaption": "Posisi sekarang 0,951× · butuh +1,3038 SOL lagi untuk 2×",
+  "depositNote": "Setoran 0,859 SOL pada 01.40 WIT dihitung sebagai modal, bukan untung.",
+  "crew": [
+    {
+      "name": "Scanner",
+      "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
+      "status": "siaga · next ~00.20",
+      "bubble": "203 token dicek pukul 00.05 · PumpPortal OK",
+      "hue": 0,
+      "tone": "neutral"
+    },
+    {
+      "name": "X Sentiment",
+      "role": "Cek sebutan mint di X",
+      "status": "siaga",
+      "bubble": "8 mint mentions last hour; mostly scanners/paid DEX push (BscKOLScanner Bundlers:53); not organic — skipped Early.",
+      "hue": 5,
+      "tone": "neutral"
+    },
+    {
+      "name": "Rug Checker",
+      "role": "Cek RugCheck & saringan",
+      "status": "siaga",
+      "bubble": "titcoin/higher/george/CORLA/GAVELDROP/Democat dicek",
+      "hue": 1,
+      "tone": "neutral"
+    },
+    {
+      "name": "Momentum",
+      "role": "Volume & tekanan beli",
+      "status": "siaga",
+      "bubble": "george: parabolik h1 +174%; CORLA: LP unlocked + parabolik; GAVELDROP: insider/bundle networks",
+      "hue": 2,
+      "tone": "neutral"
+    },
+    {
+      "name": "Dip Hunter",
+      "role": "Turun 30–50%, pembeli kembali",
+      "status": "siaga",
+      "bubble": "0 kandidat",
+      "hue": 3,
+      "tone": "neutral"
+    },
+    {
+      "name": "Early",
+      "role": "Token muda 15 mnt–6 jam · 0,03 SOL · SL -20%",
+      "status": "siaga · 0,00/0,15 SOL hari ini",
+      "bubble": "titcoin: X paid-push/bundlers + h1 +172%; MrBeast: umur <15 mnt + holder correlation; GTA 6 Coin: umur <15 mnt",
+      "hue": 6,
+      "tone": "accent"
+    },
+    {
+      "name": "Guard",
+      "role": "SL -30%/-20% Early · kunci profit · jual ½ di 2× · trailing · tiap 10 mnt",
+      "status": "siaga · 0 posisi",
+      "bubble": "Tidak ada posisi terbuka",
+      "hue": 4,
+      "tone": "neutral"
+    }
+  ],
+  "trades": [
+    {
+      "time": "11.44",
+      "time_full": "2026-11-04T11:44+09:00",
+      "aksi": "Jual",
+      "token": "$ANONVOYAGE",
+      "symbol": "ANONVOYAGE",
+      "mint": "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump",
+      "strategi": "Momentum",
+      "sol": "0,0258",
+      "sol_num": 0.025814,
+      "harga": "$0.000965",
+      "perubahan": "-50,0%",
+      "alasan": "Stop loss: harga jatuh ke ~-48% dari harga beli (USD $0,001875 ke ~$0,000965), lewat batas -30%",
+      "pnl_sol": -0.025792,
+      "tx": "2XmDUQNKFNqTwWNhvzmrAfnkz14a2vbx1QGieRTq4UrEaEhuFX4dW9gwFN3fqVtZoDcEzmCewWHXEy9aMKS6Zw9t",
+      "solscan": "https://solscan.io/tx/2XmDUQNKFNqTwWNhvzmrAfnkz14a2vbx1QGieRTq4UrEaEhuFX4dW9gwFN3fqVtZoDcEzmCewWHXEy9aMKS6Zw9t"
+    },
+    {
+      "time": "07.11",
+      "time_full": "2026-11-04T07:11+09:00",
+      "aksi": "Jual",
+      "token": "$STONKS",
+      "symbol": "STONKS",
+      "mint": "22r9JGoWRBYc4Z1pkSFw8p2tdjefS2ZZshw1vr8bBC2K",
+      "strategi": "Momentum",
+      "sol": "0,0679",
+      "sol_num": 0.06789,
+      "harga": "$0.000673",
+      "perubahan": "-34,2%",
+      "alasan": "Stop loss: harga turun ~-30% dari harga beli (USD $0,000989 ke ~$0,00069)",
+      "pnl_sol": -0.035333,
+      "tx": "5XKb8m8UH9nemycFoc6P9kDBjPf7erest8sxzyRFdtUHpTMjdMQLfpeC8rKaxkpgKq6Nefi5ni37UutcXcVS5y8V",
+      "solscan": "https://solscan.io/tx/5XKb8m8UH9nemycFoc6P9kDBjPf7erest8sxzyRFdtUHpTMjdMQLfpeC8rKaxkpgKq6Nefi5ni37UutcXcVS5y8V"
+    },
+    {
+      "time": "04.07",
+      "time_full": "2026-11-04T04:07+09:00",
+      "aksi": "Beli",
+      "token": "$STONKS",
+      "symbol": "STONKS",
+      "mint": "22r9JGoWRBYc4Z1pkSFw8p2tdjefS2ZZshw1vr8bBC2K",
+      "strategi": "Momentum",
+      "sol": "0,1",
+      "sol_num": 0.1,
+      "harga": "$0.000989",
+      "perubahan": null,
+      "alasan": "Momentum: MC ~$915rb, likuiditas ~$211rb, umur pair 1,1 jam, volume 1 jam ~$1,94jt, buy 15.563 vs sell 10.918 (1 jam), harga +219% 1 jam, RugCheck bersih (mint & freeze dicabut, LP Raydium 100% terkunci, top10 tanpa pool ~17,7%)",
+      "pnl_sol": null,
+      "tx": "2vBZx5vUJfrX6c7rLRqGPfqv59uodsrxpzJwksUMuk49Hk1rVA5nXYxH2HoLuCSBdNLFh9YnGjx61gKAL5h2szjS",
+      "solscan": "https://solscan.io/tx/2vBZx5vUJfrX6c7rLRqGPfqv59uodsrxpzJwksUMuk49Hk1rVA5nXYxH2HoLuCSBdNLFh9YnGjx61gKAL5h2szjS"
+    },
+    {
+      "time": "01.09",
+      "time_full": "2026-11-04T01:09+09:00",
+      "aksi": "Beli",
+      "token": "$ANONVOYAGE",
+      "symbol": "ANONVOYAGE",
+      "mint": "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump",
+      "strategi": "Momentum",
+      "sol": "0,05",
+      "sol_num": 0.05,
+      "harga": "$0.001875",
+      "perubahan": null,
+      "alasan": "Lolos filter: MC ~$1.86jt, likuiditas ~$115rb, umur pair 2,4 jam, volume 1 jam ~$509rb, buy>sell, RugCheck bersih (mint & freeze dicabut, LP utama 100% terkunci, top10 <5%)",
+      "pnl_sol": null,
+      "tx": "t3hBPVdZ6nSA7URu99MUZHAusU8YrkxvvKjmwhcfafNXzDRWmqDpKFqETRknGQi5GAkjhLVSyZjjwrKa422LDwy",
+      "solscan": "https://solscan.io/tx/t3hBPVdZ6nSA7URu99MUZHAusU8YrkxvvKjmwhcfafNXzDRWmqDpKFqETRknGQi5GAkjhLVSyZjjwrKa422LDwy"
+    }
+  ],
+  "positions": [],
+  "tradesNote": "Tidak ada posisi terbuka. ANONVOYAGE dan STONKS sudah dijual lewat stop loss; total rugi terealisasi 0,0611 SOL.",
+  "scan": {
+    "runTime": "6 Nov 2026, 00.05 WIT",
+    "total": 203,
+    "totalLabel": "mint discan (Momentum 6 · Dip 0 · PumpPortal 60)",
+    "coins": [
+      {
+        "symbol": "titcoin",
+        "mint": "3RWWrY7FcyikEb9V2PFxR7PCBJU6ZW9kkE6pTSYqpump",
+        "lane": "Early",
+        "source": "PumpPortal",
+        "mc": "$108 rb",
+        "liq": "$26,6 rb",
+        "age": "25 mnt",
+        "h1": "+172%",
+        "verdict": "SKIP",
+        "reason": "X paid-push/bundlers + h1 +172%"
+      },
+      {
+        "symbol": "higher",
+        "mint": "6KphvjhrxCUyQAtcAYg4HDoSwsj4qfn1uP2KDEg8qPrJ",
+        "lane": "Watchlist",
+        "source": "Watchlist",
+        "mc": "$141 rb",
+        "liq": "$33,0 rb",
+        "h1": "-25%",
+        "h24": "+551%",
+        "verdict": "SKIP",
+        "reason": "masih jatuh keras, belum dip"
+      },
+      {
+        "symbol": "george",
+        "mint": "Hbpjmu51QXzwojmtvnzzFtwpgYdP8SUwxTTDACGxpump",
+        "lane": "Momentum",
+        "source": "DexScreener",
+        "mc": "$480 rb",
+        "liq": "$66,5 rb",
+        "age": "21 j",
+        "h1": "+174%",
+        "h24": "+1077%",
+        "verdict": "SKIP",
+        "reason": "parabolik h1 +174%"
+      },
+      {
+        "symbol": "CORLA",
+        "mint": "ET9KvqFzwbrcV4jSJxNKqQAdrLhpGJLNxjZm8PBSvTZc",
+        "lane": "Momentum",
+        "source": "DexScreener",
+        "mc": "$170 rb",
+        "liq": "$111 rb",
+        "age": "3,1 j",
+        "h1": "+31%",
+        "h24": "+1720%",
+        "verdict": "SKIP",
+        "reason": "LP unlocked + parabolik"
+      },
+      {
+        "symbol": "GAVELDROP",
+        "mint": "9mWrj77gDZ7w4rwHF6STYXDZmYRMyf39L4go1mXepump",
+        "lane": "Momentum",
+        "source": "DexScreener",
+        "mc": "$1,12 jt",
+        "liq": "$94 rb",
+        "age": "16,3 j",
+        "h1": "+58%",
+        "h24": "+1985%",
+        "verdict": "SKIP",
+        "reason": "insider/bundle networks"
+      },
+      {
+        "symbol": "Democat",
+        "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
+        "lane": "Momentum",
+        "source": "DexScreener",
+        "mc": "$757 rb",
+        "liq": "$73,8 rb",
+        "age": "17,2 j",
+        "h1": "+21%",
+        "h24": "+1318%",
+        "verdict": "SKIP",
+        "reason": "holder bundle-like"
+      },
+      {
+        "symbol": "GTA",
+        "mint": "7F8BkfhPaDGMeNkaYeVa99WAqo86LpXDKsLQXpM7pump",
+        "lane": "Momentum",
+        "source": "DexScreener",
+        "mc": "$3,04 jt",
+        "liq": "$150 rb",
+        "age": "18,7 j",
+        "h1": "+10%",
+        "h24": "+5953%",
+        "verdict": "SKIP",
+        "reason": "sudah besar/parabolik"
+      },
+      {
+        "symbol": "PIRATE",
+        "mint": "2StNe98imN7M6K341a7a4xvc8eNTvLCde5EugAKfLoat",
+        "lane": "Momentum",
+        "source": "DexScreener",
+        "mc": "$403 rb",
+        "liq": "$126 rb",
+        "age": "13,8 j",
+        "h1": "-5,9%",
+        "h24": "+205%",
+        "verdict": "SKIP",
+        "reason": "h1 turun, top holders"
+      },
+      {
+        "symbol": "MrBeast",
+        "mint": "DJuEFWDbUGe8qhABL6xHC5Hd41tA1To5WZSxSsPgpump",
+        "lane": "Early",
+        "source": "PumpPortal",
+        "mc": "$133 rb",
+        "liq": "$27,9 rb",
+        "age": "10 mnt",
+        "h1": "+243%",
+        "verdict": "SKIP",
+        "reason": "umur <15 mnt + holder correlation"
+      },
+      {
+        "symbol": "GTA 6 Coin",
+        "mint": "EEMuUvQsg2AGdiQBYNBtvtRxARNCTjFRetKzZiUhpump",
+        "lane": "Early",
+        "source": "PumpPortal",
+        "mc": "$122 rb",
+        "liq": "$26,7 rb",
+        "age": "11 mnt",
+        "h1": "+214%",
+        "verdict": "SKIP",
+        "reason": "umur <15 mnt"
+      }
+    ]
+  },
+  "status": {
+    "saldo": "1,1816 SOL ($109,50)",
+    "beli_hari_ini": "0,0 / 0,3 SOL (Early 0 / 0,15)",
+    "jadwal": "Tiap 15 menit, 24 jam",
+    "wallet": "CUzx…Vunx",
+    "maks_per_beli": "0,1 SOL (Early 0,03)",
+    "maks_per_hari": "0,3 SOL/hari (Early max 0,15 di dalamnya)",
+    "cadangan": "0,05 SOL",
+    "tp_sl": "Jual separuh di 2×, sisanya trailing 25% dari puncak / SL -30% (Momentum·Dip) atau -20% (Early)",
+    "kunci_profit": "Puncak ≥+30% lalu turun ke ≤+5%, atau puncak ≥+60% lalu turun 25 poin"
+  },
+  "rules": {
+    "stop_loss": "-30% (Early -20%)",
+    "take_profit": "jual 50% di 2x, sisanya trailing 25% dari puncak",
+    "kunci_profit": "Puncak ≥+30% lalu turun ke ≤+5%, atau puncak ≥+60% lalu turun 25 poin",
+    "per_beli": "0,1 SOL (Early 0,03)",
+    "maks_per_hari": "0,3 SOL/hari (Early max 0,15 di dalamnya)",
+    "cadangan_fee": "0,05 SOL",
+    "jadwal": "Tiap 15 menit, 24 jam",
+    "mode": "Seimbang"
+  },
+  "filters": [
+    {
+      "title": "Market cap",
+      "detail": "Momentum/Dip $100 ribu–$5 juta · Early $30–$300 ribu"
+    },
+    {
+      "title": "Likuiditas",
+      "detail": "Momentum/Dip min $30 ribu, pair ≥1 jam · Early min ~$12 ribu (≥10% MC), pair 15 mnt–6 jam"
+    },
+    {
+      "title": "Cek rugpull",
+      "detail": "Mint dan freeze dicabut, LP dikunci, 10 pemegang teratas di bawah 30%, bukan copycat/bundle"
+    },
+    {
+      "title": "Momentum",
+      "detail": "Volume sehat, beli lebih banyak dari jual, harga naik; lewati jika parabolik"
+    },
+    {
+      "title": "Dip Hunter",
+      "detail": "Turun 30–50% dari high 6–24 jam, likuiditas utuh, bukan dump dev, pembeli mulai kembali"
+    },
+    {
+      "title": "Early",
+      "detail": "Token muda volume naik, beli > jual 5/15 mnt, bukan spike >150% dalam 5 mnt; ukuran 0,03 SOL, SL -20%"
+    },
+    {
+      "title": "Cek X",
+      "detail": "Sebutan alamat mint di X harus nyata dan tumbuh (Early: nilai tambah, tidak wajib); lewati jika rug/scam atau akun shill bertemplat"
+    }
+  ],
+  "riskNote": "Memecoin sangat berisiko; saringan menurunkan risiko rugpull tapi tidak menghilangkannya. Jalur Early lebih agresif.",
+  "watchlist": [
+    {
+      "symbol": "higher",
+      "mint": "6KphvjhrxCUyQAtcAYg4HDoSwsj4qfn1uP2KDEg8qPrJ",
+      "status": "Harga ~$0.0001405 (-13% vs ref), MC ~$141k, liq ~$33.0k. m5 -21.3% / h1 -25.3% / h6 +7.3% / h24 +551%. Masih jatuh keras (m5 -21%), belum zona Dip 30–50%; belum entry. (Batas ~48 jam: 7 Nov ~08:34 WIT)",
+      "last_checked": "2026-11-06 00:05 WIT"
+    }
+  ],
+  "stats": {
+    "trades": "4 trade (2 ditutup)",
+    "win_rate": "0% (0/2)",
+    "best_trade": "-34,2% $STONKS",
+    "pool_discan": "203 kandidat"
+  }
+}
