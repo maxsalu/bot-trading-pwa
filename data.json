@@ -1,16 +1,16 @@
 {
-  "updated": "6 Nov 2026, 06.53 WIT",
-  "updated_iso": "2026-11-06T06:53+09:00",
+  "updated": "6 Nov 2026, 07.03 WIT",
+  "updated_iso": "2026-11-06T07:09+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
-    "sol": "1,1564",
-    "sol_num": 1.156352,
-    "usd": "$97,09",
-    "usd_num": 97.09,
-    "mult": "0,931×",
-    "mult_num": 0.931,
+    "sol": "1,1676",
+    "sol_num": 1.167599,
+    "usd": "$96,85",
+    "usd_num": 96.85,
+    "mult": "0,940×",
+    "mult_num": 0.94,
     "pnl": "-0,0611 SOL (-4,92%)",
     "pnl_num": -0.061125,
     "pnl_pct": -4.92,
@@ -212,19 +212,23 @@
     {
       "label": "06.53",
       "value": 0.931
+    },
+    {
+      "label": "07.03",
+      "value": 0.94
     }
   ],
   "equityFloor": 0.927,
   "equityCeiling": 0.954,
-  "current": 0.931,
-  "goalCaption": "Posisi sekarang 0,931× · butuh +1,3291 SOL lagi untuk 2×",
+  "current": 0.94,
+  "goalCaption": "Posisi sekarang 0,940× · butuh +1,3178 SOL lagi untuk 2×",
   "depositNote": "Setoran 0,859 SOL pada 01.40 WIT dihitung sebagai modal, bukan untung.",
   "crew": [
     {
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "170 token dicek pukul 06.53 · PumpPortal OK",
+      "bubble": "185 token dicek pukul 07.03 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -232,7 +236,7 @@
       "name": "X Sentiment",
       "role": "Cek sebutan mint di X",
       "status": "siaga",
-      "bubble": "Tidak ada kandidat final yang sampai tahap cek X (semua gagal filter rug/copycat/vertikal/insider)",
+      "bubble": "Bubbles Early: 76 sebutan 1 jam tapi mayoritas template shill caller + sudah ~17x (10x+ fading) — SKIP; tidak ada kandid",
       "hue": 5,
       "tone": "neutral"
     },
@@ -372,7 +376,7 @@
       "sol_in": 0.1,
       "tokens": 72663.537228,
       "entry_usd": 0.00012164882396298883,
-      "pct": -23.66,
+      "pct": -11.14,
       "peak_pct": 1.6016
     }
   ],
@@ -533,7 +537,7 @@
     ]
   },
   "status": {
-    "saldo": "1,0800 SOL ($97,09)",
+    "saldo": "1,0800 SOL ($96,85)",
     "beli_hari_ini": "0,1 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
