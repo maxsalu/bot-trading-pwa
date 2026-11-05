@@ -1,14 +1,14 @@
 {
-  "updated": "6 Nov 2026, 00.05 WIT",
-  "updated_iso": "2026-11-06T00:11+09:00",
+  "updated": "2026-11-06 00:22 WIT: no trade; Early Rocco HZbiEp RugCheck clean but creator wallet 0 SOL/0 tokens with 100 txs in ~6 min + vertical +431% -> skip; EAGLE buys≈sells, titcoin m5 sells>buys, MrBeast/GTA6 bot micro-tx; Momentum CORLA/GAVELDROP/PIRATE/MINTED/AI skipped as before; watchlist higher falling not Dip",
+  "updated_iso": "2026-11-06T00:26+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
     "sol": "1,1816",
     "sol_num": 1.181587,
-    "usd": "$109,50",
-    "usd_num": 109.5,
+    "usd": "$107,52",
+    "usd_num": 107.52,
     "mult": "0,951×",
     "mult_num": 0.951,
     "pnl": "-0,0611 SOL (-4,92%)",
@@ -235,8 +235,8 @@
     {
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
-      "status": "siaga · next ~00.20",
-      "bubble": "203 token dicek pukul 00.05 · PumpPortal OK",
+      "status": "siaga · next ~00.37",
+      "bubble": "201 token dicek pukul 00.22 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -495,7 +495,7 @@
     ]
   },
   "status": {
-    "saldo": "1,1816 SOL ($109,50)",
+    "saldo": "1,1816 SOL ($107,52)",
     "beli_hari_ini": "0,0 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
@@ -550,8 +550,8 @@
     {
       "symbol": "higher",
       "mint": "6KphvjhrxCUyQAtcAYg4HDoSwsj4qfn1uP2KDEg8qPrJ",
-      "status": "Harga ~$0.0001405 (-13% vs ref), MC ~$141k, liq ~$33.0k. m5 -21.3% / h1 -25.3% / h6 +7.3% / h24 +551%. Masih jatuh keras (m5 -21%), belum zona Dip 30–50%; belum entry. (Batas ~48 jam: 7 Nov ~08:34 WIT)",
-      "last_checked": "2026-11-06 00:05 WIT"
+      "status": "Harga ~$0.0001365 (-16% vs ref), MC ~$137k, liq ~$32.2k. m5 -7.7% (jual 12 > beli 6) / h1 -20.7% / h6 -19%. Masih turun, belum entry Dip. (Batas ~48 jam: 7 Nov ~08:34 WIT)",
+      "last_checked": "2026-11-06 00:22 WIT"
     }
   ],
   "stats": {
