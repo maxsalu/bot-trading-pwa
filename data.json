@@ -1,6 +1,6 @@
 {
   "updated": "6 Nov 2026, 04.36 WIT",
-  "updated_iso": "2026-11-06T04:36+09:00",
+  "updated_iso": "2026-11-06T04:37+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
@@ -353,10 +353,10 @@
       "symbol": "higher",
       "mint": "6KphvjhrxCUyQAtcAYg4HDoSwsj4qfn1uP2KDEg8qPrJ",
       "strategi": "Dip Hunter",
-      "sol_in": null,
+      "sol_in": 0.1,
       "tokens": 72663.537228,
-      "entry_usd": null,
-      "pct": null,
+      "entry_usd": 0.00012164882396298883,
+      "pct": -16.3165,
       "peak_pct": 1.6016
     }
   ],
