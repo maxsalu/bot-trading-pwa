@@ -1,16 +1,16 @@
 {
-  "updated": "6 Nov 2026, 08.45 WIT",
-  "updated_iso": "2026-11-10T04:39+09:00",
+  "updated": "10 Nov 2026, 04.54 WIT",
+  "updated_iso": "2026-11-10T04:54+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
-    "sol": "1,1537",
-    "sol_num": 1.153693,
-    "usd": "$89,10",
-    "usd_num": 89.1,
-    "mult": "0,928×",
-    "mult_num": 0.928,
+    "sol": "1,1339",
+    "sol_num": 1.133945,
+    "usd": "$98,04",
+    "usd_num": 98.04,
+    "mult": "0,912×",
+    "mult_num": 0.9125,
     "pnl": "-0,1072 SOL (-8,63%)",
     "pnl_num": -0.107225,
     "pnl_pct": -8.63,
@@ -196,15 +196,15 @@
   ],
   "equityFloor": 0.923,
   "equityCeiling": 0.955,
-  "current": 0.928,
-  "goalCaption": "Posisi sekarang 0,928× · butuh +1,3317 SOL lagi untuk 2×",
+  "current": 0.9125,
+  "goalCaption": "Posisi sekarang 0,912× · butuh +1,3515 SOL lagi untuk 2×",
   "depositNote": "Setoran 0,859 SOL pada 01.40 WIT dihitung sebagai modal, bukan untung.",
   "crew": [
     {
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "176 token dicek pukul 08.45 · PumpPortal OK",
+      "bubble": "152 token dicek pukul 04.54 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -212,7 +212,7 @@
       "name": "X Sentiment",
       "role": "Cek sebutan mint di X",
       "status": "siaga",
-      "bubble": "BUY+TOYS4KIDS paid-shill skip",
+      "bubble": "no final candidates, X not queried",
       "hue": 5,
       "tone": "neutral"
     },
@@ -510,7 +510,7 @@
     ]
   },
   "status": {
-    "saldo": "1,0800 SOL ($89,10)",
+    "saldo": "1,1339 SOL ($98,04)",
     "beli_hari_ini": "0,0 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
