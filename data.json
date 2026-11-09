@@ -1,6 +1,6 @@
 {
-  "updated": "10 Nov 2026, 07.38 WIT",
-  "updated_iso": "2026-11-10T07:30+09:00",
+  "updated": "10 Nov 2026, 08.05 WIT",
+  "updated_iso": "2026-11-10T08:03+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
@@ -204,7 +204,7 @@
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "164 token dicek pukul 07.38 · PumpPortal OK",
+      "bubble": "165 token dicek pukul 08.05 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -212,7 +212,7 @@
       "name": "X Sentiment",
       "role": "Cek sebutan mint di X",
       "status": "siaga",
-      "bubble": "X not queried; no candidate passed price-action filters",
+      "bubble": "X not queried; THUG skipped on price action/micro-tx pattern",
       "hue": 5,
       "tone": "neutral"
     },
