@@ -1,6 +1,6 @@
 {
-  "updated": "11 Nov 2026, 08.07 WIT",
-  "updated_iso": "2026-11-11T08:03+09:00",
+  "updated": "11 Nov 2026, 08.30 WIT",
+  "updated_iso": "2026-11-11T08:29+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
@@ -10,7 +10,7 @@
     "usd": "$82,75",
     "usd_num": 82.75,
     "mult": "0,912×",
-    "mult_num": 0.912,
+    "mult_num": 0.9125,
     "pnl": "-0,1072 SOL (-8,63%)",
     "pnl_num": -0.107225,
     "pnl_pct": -8.63,
@@ -204,7 +204,7 @@
   ],
   "equityFloor": 0.906,
   "equityCeiling": 0.957,
-  "current": 0.912,
+  "current": 0.9125,
   "goalCaption": "Posisi sekarang 0,912× · butuh +1,3515 SOL lagi untuk 2×",
   "depositNote": "Setoran 0,859 SOL pada 01.40 WIT dihitung sebagai modal, bukan untung.",
   "crew": [
@@ -212,7 +212,7 @@
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "165 token dicek pukul 2026-11-11T08.07+09.00 · PumpPortal OK",
+      "bubble": "164 token dicek pukul 2026-11-11T08.30+09.00 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -220,7 +220,7 @@
       "name": "X Sentiment",
       "role": "Cek sebutan mint di X",
       "status": "siaga",
-      "bubble": "tidak dipakai; semua kandidat Early vertikal/bot, tidak ada kandidat final",
+      "bubble": "tidak dipakai; tidak ada kandidat final",
       "hue": 5,
       "tone": "neutral"
     },
