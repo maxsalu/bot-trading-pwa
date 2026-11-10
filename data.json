@@ -1,14 +1,14 @@
 {
-  "updated": "11 Nov 2026, 07.35 WIT",
-  "updated_iso": "2026-11-11T07:34+09:00",
+  "updated": "11 Nov 2026, 08.07 WIT",
+  "updated_iso": "2026-11-11T08:03+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
     "sol": "1,1339",
     "sol_num": 1.133945,
-    "usd": "$82,95",
-    "usd_num": 82.95,
+    "usd": "$82,75",
+    "usd_num": 82.75,
     "mult": "0,912×",
     "mult_num": 0.912,
     "pnl": "-0,1072 SOL (-8,63%)",
@@ -196,6 +196,10 @@
     {
       "label": "04.08",
       "value": 0.912
+    },
+    {
+      "label": "04.08",
+      "value": 0.912
     }
   ],
   "equityFloor": 0.906,
@@ -208,7 +212,7 @@
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "165 token dicek pukul 2026-11-11T07.35+09.00 · PumpPortal OK",
+      "bubble": "165 token dicek pukul 2026-11-11T08.07+09.00 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -216,7 +220,7 @@
       "name": "X Sentiment",
       "role": "Cek sebutan mint di X",
       "status": "siaga",
-      "bubble": "tidak dipakai; tidak ada kandidat final",
+      "bubble": "tidak dipakai; semua kandidat Early vertikal/bot, tidak ada kandidat final",
       "hue": 5,
       "tone": "neutral"
     },
@@ -514,7 +518,7 @@
     ]
   },
   "status": {
-    "saldo": "1,1339 SOL ($82,95)",
+    "saldo": "1,1339 SOL ($82,75)",
     "beli_hari_ini": "0,0 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
