@@ -1,14 +1,14 @@
 {
-  "updated": "10 Nov 2026, 12.40 WIT",
-  "updated_iso": "2026-11-10T12:38+09:00",
+  "updated": "10 Nov 2026, 13.06 WIT",
+  "updated_iso": "2026-11-10T13:05+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
     "sol": "1,1339",
     "sol_num": 1.133945,
-    "usd": "$97,10",
-    "usd_num": 97.1,
+    "usd": "$97,40",
+    "usd_num": 97.4,
     "mult": "0,912×",
     "mult_num": 0.9125,
     "pnl": "-0,1072 SOL (-8,63%)",
@@ -204,7 +204,7 @@
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "169 token dicek pukul 12.40 · PumpPortal OK",
+      "bubble": "170 token dicek pukul 13.06 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -510,7 +510,7 @@
     ]
   },
   "status": {
-    "saldo": "1,1339 SOL ($97,10)",
+    "saldo": "1,1339 SOL ($97,40)",
     "beli_hari_ini": "0,0 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
