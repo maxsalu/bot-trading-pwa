@@ -1,6 +1,6 @@
 {
-  "updated": "10 Nov 2026, 15.34 WIT",
-  "updated_iso": "2026-11-10T15:32+09:00",
+  "updated": "10 Nov 2026, 16.12 WIT",
+  "updated_iso": "2026-11-10T16:07+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
@@ -204,7 +204,7 @@
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "172 token dicek pukul 15.34 · PumpPortal OK",
+      "bubble": "174 token dicek pukul 16.12 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
