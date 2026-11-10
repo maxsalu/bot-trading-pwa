@@ -1,14 +1,14 @@
 {
-  "updated": "10 Nov 2026, 22.33 WIT",
-  "updated_iso": "2026-11-10T22:33+09:00",
+  "updated": "10 Nov 2026, 22.50 WIT",
+  "updated_iso": "2026-11-10T22:49+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
     "sol": "1,1339",
     "sol_num": 1.133945,
-    "usd": "$83,73",
-    "usd_num": 83.73,
+    "usd": "$95,68",
+    "usd_num": 95.68,
     "mult": "0,912×",
     "mult_num": 0.9125,
     "pnl": "-0,1072 SOL (-8,63%)",
@@ -204,7 +204,7 @@
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "163 token dicek pukul 2026-11-10T22.33+09.00 · PumpPortal OK",
+      "bubble": "1072 token dicek pukul 2026-11-10T22.50+09.00 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -212,7 +212,7 @@
       "name": "X Sentiment",
       "role": "Cek sebutan mint di X",
       "status": "siaga",
-      "bubble": "X not queried; no candidate passed filters",
+      "bubble": "CHAINCHOMP131 mint search: dominated by template call-group/paid shill posts -> skip",
       "hue": 5,
       "tone": "neutral"
     },
@@ -510,7 +510,7 @@
     ]
   },
   "status": {
-    "saldo": "1,1339 SOL ($83,73)",
+    "saldo": "1,1339 SOL ($95,68)",
     "beli_hari_ini": "0,0 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
