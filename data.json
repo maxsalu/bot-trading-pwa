@@ -1,16 +1,16 @@
 {
-  "updated": "12 Nov 2026, 00.40 WIT",
-  "updated_iso": "2026-11-12T00:36+09:00",
+  "updated": "12 Nov 2026, 01.05 WIT",
+  "updated_iso": "2026-11-12T00:59+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
-    "sol": "1,1339",
-    "sol_num": 1.133945,
+    "sol": "1,0323",
+    "sol_num": 1.032344,
     "usd": "$87,77",
     "usd_num": 87.77,
-    "mult": "0,912×",
-    "mult_num": 0.9125,
+    "mult": "0,831×",
+    "mult_num": 0.8307,
     "pnl": "-0,1072 SOL (-8,63%)",
     "pnl_num": -0.107225,
     "pnl_pct": -8.63,
@@ -204,15 +204,15 @@
   ],
   "equityFloor": 0.906,
   "equityCeiling": 0.957,
-  "current": 0.9125,
-  "goalCaption": "Posisi sekarang 0,912× · butuh +1,3515 SOL lagi untuk 2×",
+  "current": 0.8307,
+  "goalCaption": "Posisi sekarang 0,831× · butuh +1,4531 SOL lagi untuk 2×",
   "depositNote": "Setoran 0,859 SOL pada 01.40 WIT dihitung sebagai modal, bukan untung.",
   "crew": [
     {
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "235 token dicek pukul 2026-11-12T00.40+09.00 · PumpPortal OK",
+      "bubble": "238 token dicek pukul 2026-11-12T01.05+09.00 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -376,7 +376,7 @@
       "strategi": "Momentum",
       "sol_in": 0.1,
       "tokens": 10101.924313,
-      "entry_usd": 0.0008517,
+      "entry_usd": 0.0006884,
       "pct": null,
       "peak_pct": 2.7
     }
