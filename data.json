@@ -1,6 +1,6 @@
 {
   "updated": "11 Nov 2026, 22.52 WIT",
-  "updated_iso": "2026-11-11T23:30+09:00",
+  "updated_iso": "2026-11-12T00:01+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
@@ -376,7 +376,7 @@
       "strategi": "Momentum",
       "sol_in": 0.1,
       "tokens": 10101.924313,
-      "entry_usd": 0.0007239,
+      "entry_usd": 0.0007663,
       "pct": null,
       "peak_pct": 2.7
     }
@@ -547,7 +547,7 @@
   },
   "status": {
     "saldo": "1,0323 SOL ($87,11)",
-    "beli_hari_ini": "0,1 / 0,3 SOL (Early 0 / 0,15)",
+    "beli_hari_ini": "0,0 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
     "maks_per_beli": "0,1 SOL (Early 0,03)",
