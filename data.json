@@ -1,6 +1,6 @@
 {
   "updated": "11 Nov 2026, 22.52 WIT",
-  "updated_iso": "2026-11-11T22:52+09:00",
+  "updated_iso": "2026-11-11T23:05+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
@@ -376,9 +376,9 @@
       "strategi": "Momentum",
       "sol_in": 0.1,
       "tokens": 10101.924313,
-      "entry_usd": 0.0008341008,
+      "entry_usd": 0.0008456,
       "pct": null,
-      "peak_pct": 0
+      "peak_pct": 2.7
     }
   ],
   "tradesNote": "1 posisi terbuka.",
