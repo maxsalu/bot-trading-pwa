@@ -1,6 +1,6 @@
 {
-  "updated": "12 Nov 2026, 04.33 WIT",
-  "updated_iso": "2026-11-12T08:30+09:00",
+  "updated": "12 Nov 2026, 09.10 WIT",
+  "updated_iso": "2026-11-12T09:08+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
@@ -212,7 +212,7 @@
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "250 token dicek pukul 2026-11-12T04.33+09.00 · PumpPortal OK",
+      "bubble": "251 token dicek pukul 2026-11-12T09.10+09.00 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -603,7 +603,14 @@
     }
   ],
   "riskNote": "Memecoin sangat berisiko; saringan menurunkan risiko rugpull tapi tidak menghilangkannya. Jalur Early lebih agresif.",
-  "watchlist": [],
+  "watchlist": [
+    {
+      "symbol": "BURNIE",
+      "mint": "CGEDT9QZDvvH5GmVkWJH2BXiMJqMJySC9ihWyr7Spump",
+      "status": null,
+      "last_checked": null
+    }
+  ],
   "stats": {
     "trades": "7 trade (3 ditutup)",
     "win_rate": "0% (0/3)",
