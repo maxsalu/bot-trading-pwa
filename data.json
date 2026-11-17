@@ -1,14 +1,14 @@
 {
   "updated": "18 Nov 2026, 00.08 WIT",
-  "updated_iso": "2026-11-18T00:40+09:00",
+  "updated_iso": "2026-11-18T00:44+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
     "sol": "1,1022",
     "sol_num": 1.102217,
-    "usd": "$50,06",
-    "usd_num": 50.06,
+    "usd": "$72,30",
+    "usd_num": 72.3,
     "mult": "0,887×",
     "mult_num": 0.887,
     "pnl": "-0,1374 SOL (-16,71%)",
@@ -16,7 +16,7 @@
     "pnl_pct": -16.71,
     "basis": "0,8219 SOL",
     "basis_num": 0.821921,
-    "trades": "7 trade (3 ditutup)",
+    "trades": "8 trade (3 ditutup)",
     "win": "win rate 0% (0/3)",
     "best_trade": "-30,7% $HOLD"
   },
@@ -236,7 +236,7 @@
       "name": "Scanner",
       "role": "Pindai DexScreener + Pump.fun tiap 15 mnt",
       "status": "siaga",
-      "bubble": "241 token dicek pukul 2026-11-18T00.08+09.00 · PumpPortal OK",
+      "bubble": "239 token dicek pukul 2026-11-18T00.08+09.00 · PumpPortal OK",
       "hue": 0,
       "tone": "neutral"
     },
@@ -244,7 +244,7 @@
       "name": "X Sentiment",
       "role": "Cek sebutan mint di X",
       "status": "siaga",
-      "bubble": "JENSEN: template shill vote/listing Moonshot, skip",
+      "bubble": "HOGE: tanpa rug/scam warning; sebutan bot sinyal",
       "hue": 5,
       "tone": "neutral"
     },
@@ -283,13 +283,30 @@
     {
       "name": "Guard",
       "role": "SL -30%/-20% Early · kunci profit · jual ½ di 2× · trailing · tiap 10 mnt",
-      "status": "siaga · 0 posisi",
-      "bubble": "Tidak ada posisi terbuka",
+      "status": "siaga · 1 posisi",
+      "bubble": "1 posisi dipantau",
       "hue": 4,
       "tone": "neutral"
     }
   ],
   "trades": [
+    {
+      "time": "00.50",
+      "time_full": "2026-11-18T00:50+09:00",
+      "aksi": "Beli",
+      "token": "$HOGE",
+      "symbol": "HOGE",
+      "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump",
+      "strategi": "Momentum",
+      "sol": "0,1",
+      "sol_num": 0.1,
+      "harga": "$0.001012",
+      "perubahan": null,
+      "alasan": "Momentum (scan manual permintaan Max, agak agresif): MC ~$947rb, likuiditas ~$117rb (PumpSwap, LP 100% terkunci), umur pair ~57 jam, volume 1 jam ~$89rb, buy 566 vs sell 538 (1 jam), m5 buy 66 vs sell 45, harga +24% 1 jam / +58% 6 jam / +21% 24 jam (tidak parabolik), RugCheck score 1 tanpa risiko (mint & freeze dicabut, top10 ex-pool ~15%, 8,9rb holder; cluster insider ~24% jadi catatan), creator saldo 0 & tidak serial launcher, quote Phantom impact ~0,06%",
+      "pnl_sol": null,
+      "tx": "3H9xmZ9CG5NJT18kjMAyLLaJRs8s3Peqnh5TGpSTCom5KeP4vjAuRKTu4Bx248cNwWCWoicqcPRCwigwSnmrHrdt",
+      "solscan": "https://solscan.io/tx/3H9xmZ9CG5NJT18kjMAyLLaJRs8s3Peqnh5TGpSTCom5KeP4vjAuRKTu4Bx248cNwWCWoicqcPRCwigwSnmrHrdt"
+    },
     {
       "time": "01.19",
       "time_full": "2026-11-12T01:19+09:00",
@@ -410,8 +427,19 @@
       "solscan": "https://solscan.io/tx/t3hBPVdZ6nSA7URu99MUZHAusU8YrkxvvKjmwhcfafNXzDRWmqDpKFqETRknGQi5GAkjhLVSyZjjwrKa422LDwy"
     }
   ],
-  "positions": [],
-  "tradesNote": "Tidak ada posisi terbuka. ANONVOYAGE dan STONKS sudah dijual lewat stop loss; total rugi terealisasi 0,1374 SOL.",
+  "positions": [
+    {
+      "symbol": "HOGE",
+      "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump",
+      "strategi": "Momentum",
+      "sol_in": 0.1,
+      "tokens": 7147.651332,
+      "entry_usd": 0.0010115,
+      "pct": null,
+      "peak_pct": 0
+    }
+  ],
+  "tradesNote": "1 posisi terbuka.",
   "scan": {
     "runTime": "6 Nov 2026, 08.45 WIT",
     "total": 176,
@@ -576,8 +604,8 @@
     ]
   },
   "status": {
-    "saldo": "0,6813 SOL ($50,06)",
-    "beli_hari_ini": "0,0 / 0,3 SOL (Early 0 / 0,15)",
+    "saldo": "0,5768 SOL ($72,30)",
+    "beli_hari_ini": "0,1 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
     "maks_per_beli": "0,1 SOL (Early 0,03)",
@@ -629,7 +657,7 @@
   "riskNote": "Memecoin sangat berisiko; saringan menurunkan risiko rugpull tapi tidak menghilangkannya. Jalur Early lebih agresif.",
   "watchlist": [],
   "stats": {
-    "trades": "7 trade (3 ditutup)",
+    "trades": "8 trade (3 ditutup)",
     "win_rate": "0% (0/3)",
     "best_trade": "-30,7% $HOLD",
     "pool_discan": "176 kandidat"
