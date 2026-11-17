@@ -1,6 +1,6 @@
 {
   "updated": "18 Nov 2026, 00.08 WIT",
-  "updated_iso": "2026-11-18T00:06+09:00",
+  "updated_iso": "2026-11-18T00:40+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
@@ -11,11 +11,11 @@
     "usd_num": 50.06,
     "mult": "0,887×",
     "mult_num": 0.887,
-    "pnl": "-0,1374 SOL (-11,05%)",
+    "pnl": "-0,1374 SOL (-16,71%)",
     "pnl_num": -0.137352,
-    "pnl_pct": -11.05,
-    "basis": "1,2427 SOL",
-    "basis_num": 1.242712,
+    "pnl_pct": -16.71,
+    "basis": "0,8219 SOL",
+    "basis_num": 0.821921,
     "trades": "7 trade (3 ditutup)",
     "win": "win rate 0% (0/3)",
     "best_trade": "-30,7% $HOLD"
@@ -229,7 +229,7 @@
   "equityFloor": 0.877,
   "equityCeiling": 0.961,
   "current": 0.887,
-  "goalCaption": "Posisi sekarang 0,887× · butuh +1,3832 SOL lagi untuk 2×",
+  "goalCaption": "Posisi sekarang 0,887× · butuh +0,5416 SOL lagi untuk 2×",
   "depositNote": "Setoran 0,859 SOL pada 01.40 WIT dihitung sebagai modal, bukan untung.",
   "crew": [
     {
