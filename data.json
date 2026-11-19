@@ -1,23 +1,23 @@
 {
   "updated": "19 Nov 2026, 19.00 WIT",
-  "updated_iso": "2026-11-20T00:38+09:00",
+  "updated_iso": "2026-11-20T05:15+09:00",
   "live": true,
   "wallet": "CUzx…Vunx",
   "wallet_full": "CUzxACVPAn2M2F4zYXoEsm9PLMUMy6K8CxZLhqoVVunx",
   "equity": {
-    "sol": "0,4421",
-    "sol_num": 0.442093,
+    "sol": "0,5496",
+    "sol_num": 0.549602,
     "usd": "$47,96",
     "usd_num": 47.96,
-    "mult": "0,538×",
-    "mult_num": 0.5379,
-    "pnl": "-0,1704 SOL (-20,73%)",
-    "pnl_num": -0.170391,
-    "pnl_pct": -20.73,
+    "mult": "0,669×",
+    "mult_num": 0.6687,
+    "pnl": "-0,2629 SOL (-31,98%)",
+    "pnl_num": -0.262881,
+    "pnl_pct": -31.98,
     "basis": "0,8219 SOL",
     "basis_num": 0.821921,
-    "trades": "9 trade (3 ditutup)",
-    "win": "win rate 0% (0/3)",
+    "trades": "10 trade (4 ditutup)",
+    "win": "win rate 0% (0/4)",
     "best_trade": "-30,7% $HOLD"
   },
   "equityPoints": [
@@ -228,8 +228,8 @@
   ],
   "equityFloor": 0.877,
   "equityCeiling": 0.961,
-  "current": 0.5379,
-  "goalCaption": "Posisi sekarang 0,538× · butuh +1,2017 SOL lagi untuk 2×",
+  "current": 0.6687,
+  "goalCaption": "Posisi sekarang 0,669× · butuh +1,0942 SOL lagi untuk 2×",
   "depositNote": "Setoran 0,859 SOL pada 01.40 WIT dihitung sebagai modal, bukan untung.",
   "crew": [
     {
@@ -283,13 +283,30 @@
     {
       "name": "Guard",
       "role": "SL -30%/-20% Early · kunci profit · jual ½ di 2× · trailing · tiap 10 mnt",
-      "status": "siaga · 1 posisi",
-      "bubble": "1 posisi dipantau",
+      "status": "siaga · 0 posisi",
+      "bubble": "Tidak ada posisi terbuka",
       "hue": 4,
       "tone": "neutral"
     }
   ],
   "trades": [
+    {
+      "time": "05.16",
+      "time_full": "2026-11-20T05:16+09:00",
+      "aksi": "Jual",
+      "token": "$Leonida",
+      "symbol": "Leonida",
+      "mint": "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump",
+      "strategi": "—",
+      "sol": "—",
+      "sol_num": 0.0,
+      "harga": "$0.001374",
+      "perubahan": null,
+      "alasan": "stop loss -40% (harga -44.5% vs beli)",
+      "pnl_sol": null,
+      "tx": "4ZAQUPDXz3HpQZRGq99mzaBiD3TwDsAVdwW7DbGKJ3xQyX7WcZkkwf8oDy6dM5xVHrtA9KoonPd1rDib1Q97b78k",
+      "solscan": "https://solscan.io/tx/4ZAQUPDXz3HpQZRGq99mzaBiD3TwDsAVdwW7DbGKJ3xQyX7WcZkkwf8oDy6dM5xVHrtA9KoonPd1rDib1Q97b78k"
+    },
     {
       "time": "00.38",
       "time_full": "2026-11-20T00:38+09:00",
@@ -444,19 +461,8 @@
       "solscan": "https://solscan.io/tx/t3hBPVdZ6nSA7URu99MUZHAusU8YrkxvvKjmwhcfafNXzDRWmqDpKFqETRknGQi5GAkjhLVSyZjjwrKa422LDwy"
     }
   ],
-  "positions": [
-    {
-      "symbol": "Leonida",
-      "mint": "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump",
-      "strategi": "Aggressive-Final",
-      "sol_in": 0.2,
-      "tokens": 5969.905335,
-      "entry_usd": 0.002475751150248348,
-      "pct": null,
-      "peak_pct": 0
-    }
-  ],
-  "tradesNote": "1 posisi terbuka.",
+  "positions": [],
+  "tradesNote": "Tidak ada posisi terbuka. ANONVOYAGE dan STONKS sudah dijual lewat stop loss; total rugi terealisasi 0,2629 SOL.",
   "scan": {
     "runTime": "6 Nov 2026, 08.45 WIT",
     "total": 176,
@@ -621,7 +627,7 @@
     ]
   },
   "status": {
-    "saldo": "0,4421 SOL ($47,96)",
+    "saldo": "0,5496 SOL ($47,96)",
     "beli_hari_ini": "0,2 / 0,3 SOL (Early 0 / 0,15)",
     "jadwal": "Tiap 15 menit, 24 jam",
     "wallet": "CUzx…Vunx",
@@ -674,8 +680,8 @@
   "riskNote": "Memecoin sangat berisiko; saringan menurunkan risiko rugpull tapi tidak menghilangkannya. Jalur Early lebih agresif.",
   "watchlist": [],
   "stats": {
-    "trades": "9 trade (3 ditutup)",
-    "win_rate": "0% (0/3)",
+    "trades": "10 trade (4 ditutup)",
+    "win_rate": "0% (0/4)",
     "best_trade": "-30,7% $HOLD",
     "pool_discan": "176 kandidat"
   }
